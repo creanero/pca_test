@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this repo as below."
+authors:
+- family-names: "Creaner"
+  given-names: "Oisin"
+  orcid: "https://orcid.org/0000-0002-1080-0090"
+
+title: "Principal Component Analysis Demo code"
+version: 0
+date-released: 2023-11-02
+url: "https://github.com/creanero/pca_test"
